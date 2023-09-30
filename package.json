@@ -1,0 +1,8 @@
+{
+  "name": "qa-automation-cypress",
+  "version": "5.0.0",
+  "private": true,
+  "devDependencies": {
+    "cypress": "^13.3.0"
+  }
+}
