@@ -1,6 +1,5 @@
 /// <reference types="cypress" />
 
-
 describe('e2e tests for product details page', () => {
   beforeEach(() => {
     // Cypress starts out with a blank slate for each test
