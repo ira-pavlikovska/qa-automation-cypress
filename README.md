@@ -1,8 +1,17 @@
-# Qa-automation-cypress test for GameStop e-commerce application
+# QA Automation Cypress tests 
+### for GameStop e-commerce application
 
-Run end-to-end test
+**Video demo is [here](https://photos.app.goo.gl/uQoJFgxNm6d94Q8p6)**
+
+Run end-to-end tests
+
 ```bash
-yarn cypress open
+cypress open
 ```
 
-Video demo is here: 
+Run end-to-end tests in headless mode
+```bash
+cypress run
+```
+
+

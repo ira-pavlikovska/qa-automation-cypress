@@ -2,6 +2,10 @@
   "name": "qa-automation-cypress",
   "version": "5.0.0",
   "private": true,
+  "scripts": {
+    "e2e": "cypress open",
+    "e2e:headless": "cypress run"
+  },
   "devDependencies": {
     "cypress": "^13.3.0"
   }
